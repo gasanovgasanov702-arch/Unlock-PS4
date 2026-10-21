@@ -1,4 +1,4 @@
-# Unlock-PS4
+# Unlocking PS4 consoles running firmware versions below 12.02 
 
 ============================================================
        OFFLINE PS4 JAILBREAK  •  FW 11.50  •  GoldHEN
